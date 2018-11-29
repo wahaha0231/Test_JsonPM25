@@ -1,0 +1,50 @@
+C:\Users\student\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\student\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\student\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\student\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\student\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\student\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\student\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\student\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\student\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+G:\AI 巨匠20181016\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+G:\AI 巨匠20181016\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+G:\AI 巨匠20181016\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+G:\AI 巨匠20181016\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+G:\AI 巨匠20181016\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+G:\AI 巨匠20181016\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+G:\AI 巨匠20181016\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\AI 巨匠20181016\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+G:\AI 巨匠20181016\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+G:\AI 巨匠20181016\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\mis6\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\mis6\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\mis6\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\mis6\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mis6\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mis6\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\mis6\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\mis6\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\mis6\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\mis6\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\mis6\Desktop\ConsoleApp2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\mis6\Desktop\ConsoleApp2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\mis6\Desktop\ConsoleApp2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\mis6\Desktop\ConsoleApp2\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mis6\Desktop\ConsoleApp2\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mis6\Desktop\ConsoleApp2\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\mis6\Desktop\ConsoleApp2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\mis6\Desktop\ConsoleApp2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\mis6\Desktop\ConsoleApp2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\mis6\Desktop\ConsoleApp2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\mis6\Desktop\PM25\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\mis6\Desktop\PM25\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\mis6\Desktop\PM25\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\mis6\Desktop\PM25\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mis6\Desktop\PM25\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mis6\Desktop\PM25\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\mis6\Desktop\PM25\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\mis6\Desktop\PM25\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\mis6\Desktop\PM25\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\mis6\Desktop\PM25\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
